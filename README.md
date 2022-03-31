@@ -1,6 +1,9 @@
-# Cybertalents #
-## Bunch of cybertalents problems ##
+```diff
+@@ CYBERTALENTS @@
+```
 
+## Bunch of cybertalents problems ##
+COMING SOON
 
 ## WHEN to Contribute? ##
 You are ***always welcome*** to contribute.
