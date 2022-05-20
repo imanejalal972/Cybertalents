@@ -1,7 +1,7 @@
 ```diff
-@@ CYBERTALENTS WriteUp's @@
+@@ CYBERTALENTS WriteUps @@
 ```
-# Cybertalents WriteUp's
+# Cybertalents WriteUps
 
 | Challenge Name | Category | Level | Description | WriteUp |
 | -------------- | -------- | ----- |------------ |-------- |
